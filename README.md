@@ -10,3 +10,6 @@ This repository contains my homework and projects for the Numerical Analysis cou
 
 ## Author
 - Name:qingyu zhu 
+
+## Thanks
+I would like to thank Professor Wang heyu,Teaching Assistant Zeng xunlu and Huang Wenchong for their guidance and support throughout the course.
